@@ -3,10 +3,16 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/blick/Desktop/cn333/as2.2/app/src/main/res/layout/list_detail_fragment.xml" value="0.12689969604863222" />
-        <entry key="..\:/Users/blick/Desktop/cn333/as2.2/app/src/main/res/layout/list_selection_view_holder.xml" value="0.17426545086119555" />
-        <entry key="..\:/Users/blick/Desktop/cn333/as2.2/app/src/main/res/layout/main_activity.xml" value="0.12588652482269502" />
+        <entry key="..\:/Users/blick/Desktop/cn333/as2.2/app/src/main/res/drawable/rounded.xml" value="0.3015" />
+        <entry key="..\:/Users/blick/Desktop/cn333/as2.2/app/src/main/res/layout-xlarge/main_activity.xml" value="0.1315990818668707" />
+        <entry key="..\:/Users/blick/Desktop/cn333/as2.2/app/src/main/res/layout/list_detail_activity.xml" value="0.3625" />
+        <entry key="..\:/Users/blick/Desktop/cn333/as2.2/app/src/main/res/layout/list_detail_fragment.xml" value="0.25" />
+        <entry key="..\:/Users/blick/Desktop/cn333/as2.2/app/src/main/res/layout/list_item_view_holder.xml" value="0.18009118541033434" />
+        <entry key="..\:/Users/blick/Desktop/cn333/as2.2/app/src/main/res/layout/list_selection_view_holder.xml" value="0.4311475409836066" />
+        <entry key="..\:/Users/blick/Desktop/cn333/as2.2/app/src/main/res/layout/main_activity.xml" value="0.25" />
         <entry key="..\:/Users/blick/Desktop/cn333/as2.2/app/src/main/res/layout/main_fragment.xml" value="0.33" />
+        <entry key="..\:/Users/blick/Desktop/cn333/cn333as2/app/src/main/res/layout/list_item_view_holder.xml" value="0.3625" />
+        <entry key="..\:/Users/blick/Desktop/cn333/cn333as2/app/src/main/res/layout/main_fragment.xml" value="0.3625" />
       </map>
     </option>
   </component>
